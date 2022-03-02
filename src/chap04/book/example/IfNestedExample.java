@@ -1,4 +1,4 @@
-package chap04.book;
+package chap04.book.example;
 
 public class IfNestedExample {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package chap04.book;
+package chap04.book.example;
 
 public class SwitchNoBreakCaseExample {
 	public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class SwitchNoBreakCaseExample {
 		case 10:
 			System.out.println("업무를 봅니다.");
 		default:
-			System.out.println("외근을 나갑니다.");
+			System.out.println("외근을 나갑니다.");			
 		}
 	}	
 }
