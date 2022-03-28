@@ -22,10 +22,9 @@ public class Example {
 			method1();
 		} catch (Exception e) {
 			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			e.printStackTrace();
 		}
-//			catch (ClassNotFoundException e) {
-//			e.printStackTrace();
-//		}
 	}
 	
 	public void ex04() {

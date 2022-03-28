@@ -11,7 +11,7 @@ public class App02 {
 		// NumberFormatException은 RuntimeException(unchecked exception)
 		// 이어서 컴파일러가 검사안함 (uncheck)
 		
-//		FileReader fr = new FileReader(""); 
+		FileReader fr = new FileReader(""); 
 		// FileNotFoundException 발생 가능
 		// FileNotFoundException은 RuntimeException을 상속받지 않았음(check exception)
 		// 그래서 컴파일러가 검사함 (check)
