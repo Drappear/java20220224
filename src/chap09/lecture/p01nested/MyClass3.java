@@ -23,7 +23,7 @@ public class MyClass3 {
 	// static 메소드
 	static void method2() {
 		NestedClass1 o1 = new NestedClass1();
-		NestedClass2 o2 = new NestedClass2(); // xxx
+//		NestedClass2 o2 = new NestedClass2(); // xxx
 	}
 	
 	// instance 필드
@@ -32,7 +32,7 @@ public class MyClass3 {
 	
 	// static 필드
 	static NestedClass1 field3 = new NestedClass1();
-	static NestedClass2 field4 = new NestedClass2(); // xxx
+//	static NestedClass2 field4 = new NestedClass2(); // xxx
 }
 
 

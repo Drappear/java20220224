@@ -7,13 +7,13 @@ public class MyClass5 {
 			// 로컬 클래스에서 static 멤버 사용 불가
 			
 			int field1;
-			static int field2;// xxx
+//			static int field2;// xxx
 			
 			void method1() {
 			}
 			
-			static void method2() { // xxx
-			}
+//			static void method2() { // xxx
+//			}
 		}
 	}
 }

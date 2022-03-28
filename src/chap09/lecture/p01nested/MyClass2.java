@@ -21,15 +21,15 @@ public class MyClass2 {
 	class NestedClass2 {
 		// 필드
 		int field1;
-		static int field2; // static field 가질 수 없음
+//		static int field2; // static field 가질 수 없음
 		static final int FIELD3 = 3; // static final은 가능
 		// 메소드
 		void method1() {
 			
 		}
-		static void method2() { // static method 가질 수 없음
-			
-		}
+//		static void method2() { // static method 가질 수 없음
+//			
+//		}
 	}
 }
 
